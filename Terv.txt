@@ -1,0 +1,25 @@
+Gergő:
+PyGame ablak létrehozása, eseménykezelés (pl. egérkattintás, mozgás)
+
+Rajzeszközök működésének leprogramozása:
+
+Téglalap és ellipszis (kör) rajzolása
+
+Körvonal vagy kitöltött mód kiválasztása
+
+Színválasztó (minimum 3 szín) megvalósítása
+
+A rajzolási logika (pl. első pont kiválasztása, majd második – téglalap/ellipszis)
+
+Intuitív kezelőfelület kialakítása (gombok, ikonok, visszajelzések)
+
+Ádám:
+Menü vagy gombos felület (pl. "Mentés", "Betöltés", "Törlés", "Kilépés")
+
+Kép mentése fájlba (pygame.image.save) és visszatöltése
+
+Állapotkezelés: mikor melyik eszköz van kiválasztva, mit rajzolunk
+
+Extra funkciók implementálása (pl. visszavonás, redo, grid háttér, stb.)
+
+Git repository létrehozása, .gitignore, és projekt alapstruktúra
